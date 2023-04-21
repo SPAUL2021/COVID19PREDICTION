@@ -26,7 +26,7 @@ Thereafter, we calculate the derivatives of that trial function analytically.
 
 **run** run1.m to get the output p_T_test.txt 
 
-p_T_test.txt : contains estimated values of the NN parameters involved in the trial function 
+p_T_two.txt : contains estimated values of the NN parameters involved in the trial function 
 
 
 
@@ -37,7 +37,7 @@ and its derivatives we obtain trial functions for the time dependent model param
 
 **run**  runinv1.m to get the output  p_T_inv.txt
 
-p_T_inv.txt : contains estimated values of the NN parameters invloved in the model parameters and error functions.
+p_inv_two.txt : contains estimated values of the NN parameters invloved in the model parameters and error functions.
 
 
 
