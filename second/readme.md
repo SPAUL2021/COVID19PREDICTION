@@ -40,6 +40,12 @@ p_inv_two.txt : contains estimated values of the NN parameters invloved in the m
 
 
 
+## Prediction
+
+**run** invfirstP2.m for prediction model
+
+
+
 ## Figure
 
 **run** invfirstP2.m to generate Figure 5 of the article
